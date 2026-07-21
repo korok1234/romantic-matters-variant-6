@@ -15,3 +15,7 @@
 .process li p{color:#c8b8c7}
 .wine-button{background:#4b354b}
 footer{background:#1b171b}
+
+@media(max-width:800px){
+  .hero{background-position:80% center}
+}
